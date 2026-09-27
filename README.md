@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Swapnil Thakur
 
-<!--
-**swapnil-thakur-26/swapnil-thakur-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | DSA | Backend Development
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE — 2027
+💻 Focused on Java Backend Development
+🧩 Practicing Data Structures & Algorithms in Java
+🗄️ Learning SQL & MySQL
+🚀 Building projects to strengthen my software engineering skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* C/C++
+
+**Database**
+
+* SQL
+* MySQL
+
+**Core CS**
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+
+**Tools**
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Arduino IDE
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 IoT Gas & Flame Detection System
+
+An IoT-based safety system using ESP32 to detect gas leaks and fire hazards in real time.
+
+**Tech:** ESP32 • C/C++ • Arduino • Blynk IoT
+
+### 🧩 DSA in Java
+
+A collection of Data Structures and Algorithms problems solved in Java while preparing for coding interviews.
+
+**Tech:** Java • DSA
+
+---
+
+## 🎯 Currently Learning
+
+* Java Backend Development
+* Spring Boot
+* REST APIs
+* SQL & MySQL
+* Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [github.com/swapnil-thakur-26](https://github.com/swapnil-thakur-26)
+* LinkedIn: https://www.linkedin.com/in/swapnil-thakur-44a23b27b/
+
+---
+
+⭐ Thanks for visiting my profile!
